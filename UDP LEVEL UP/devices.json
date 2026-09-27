@@ -1,0 +1,67 @@
+{
+    "4816801278": {
+        "unique_device_id": "Google|b139b336-1ddb-4073-a4cb-140ddd1e6cd2",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1280,
+        "screen_height": 3200,
+        "screen_dpi": "306",
+        "memory": 5041,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2527 | 12",
+        "client_ip": "103.24.37.92"
+    },
+    "7944449727": {
+        "unique_device_id": "Google|23d9427c-2f58-4871-809a-5c4760cdf175",
+        "brand": "Samsung",
+        "model": "SM-G998B",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 1080,
+        "screen_height": 1600,
+        "screen_dpi": "376",
+        "memory": 4447,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2399 | 6",
+        "client_ip": "204.83.32.145"
+    },
+    "7943845303": {
+        "unique_device_id": "Google|0bb6fb2f-7a29-4077-a899-2f2121b647d1",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 3200,
+        "screen_dpi": "355",
+        "memory": 4728,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3150 | 10",
+        "client_ip": "135.12.217.160"
+    },
+    "7947203905": {
+        "unique_device_id": "Google|5b0807ab-050a-47fb-8b17-85bf1db5f8fd",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "402",
+        "memory": 6313,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2672 | 11",
+        "client_ip": "169.193.210.176"
+    },
+    "4708285388": {
+        "unique_device_id": "Google|54b65581-76d6-4fd8-87f1-9fd9501da0ec",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "400",
+        "memory": 6155,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3141 | 12",
+        "client_ip": "165.196.153.227"
+    }
+}
